@@ -17,6 +17,7 @@ img {
   height: 100%;
   width: 100%;
 }
+
 input {
   font-size: 20px;
   padding: 10px;
@@ -110,4 +111,5 @@ a {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+
 }
